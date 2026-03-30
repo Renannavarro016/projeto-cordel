@@ -86,7 +86,7 @@ footer {
     color: white;
     padding: 12px;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 footer > p > a {
@@ -97,4 +97,5 @@ footer > p > a {
 footer > p > a:hover {
     color: rgba(255, 255, 255, 0.678);
     text-decoration: underline;
+    transition: all 0.5s;
 }
